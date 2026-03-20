@@ -92,11 +92,12 @@ Built after experiencing emotional damage from an AWS bill.
 
 I produce music, compose, and occasionally convince myself this mix is “almost done” (it never is).
 
-Think: **Ableton + AWS + debugging at 2 AM wondering if the bug is in my code or my life choices** 🎛️☁️
+Think: **Ableton + AWS + debugging at 2 AM, wondering if the bug is in my code or my life choices** 🎛️☁️
 
 ---
 
 ⭐️ If you're building something cool in **AI + music + cloud**, I’m either already thinking about it… or debugging something related to it.
 
-Let’s build 🤝
+Let’s build 
+CHEERS! 🍻
 
